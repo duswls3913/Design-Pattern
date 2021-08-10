@@ -1,5 +1,6 @@
 package MP02.strategyPattern;
 public class Sorter {
+	
 	Comparable compare;
 	
 	public Sorter(Comparable comparable) {
